@@ -1,0 +1,12 @@
+{
+  "name": "CP-API",
+  "description": "Unofficial API of CP sites.",
+  "keywords": [
+    "flask",
+    "python",
+    "CP",
+    "Codeforces",
+    "Codechef"
+  ],
+  "repository": "https://github.com/TheCez/cp-api.git"
+}
